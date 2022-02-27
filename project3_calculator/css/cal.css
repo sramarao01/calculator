@@ -1,0 +1,24 @@
+.calculator{
+    width: 200px;
+    left:0;
+    right:0;
+    position: absolute;
+    border: 1px solid black;
+    margin: auto;
+    top:100px;
+    background-color: yellowgreen;
+}
+.screen{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(143, 165, 165);
+    border:1px solid black ;
+}
+.arthamatic{
+   row-gap: 5px;
+   /* column-gap: 5px; */
+    padding-top: 10px;
+}
+button{
+    margin:5px;
+}
